@@ -1,0 +1,23 @@
+﻿  CompGrap2.cpp
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(31,46): warning C4474: "fprintf" : для строки формата передано слишком много аргументов
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(31,46): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(36,16): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(39,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(43,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(43,15): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(44,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(44,15): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(45,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(45,15): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(46,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(46,15): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(47,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(48,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(48,14): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(49,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(49,14): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(50,19): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(50,14): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(51,19): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\CompGrap2\CompGrap2\CompGrap2.cpp(51,14): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  CompGrap2.vcxproj -> C:\Games\CompGrap2\x64\Debug\CompGrap2.exe
