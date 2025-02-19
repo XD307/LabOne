@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (CompGrap2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  CompGrap3.cpp
+C:\Games\Treugolniki\CompGrap2\CompGrap3.cpp(31,46): warning C4474: "fprintf" : для строки формата передано слишком много аргументов
+C:\Games\Treugolniki\CompGrap2\CompGrap3.cpp(31,46): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Games\Treugolniki\CompGrap2\CompGrap3.cpp(36,26): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Games\Treugolniki\CompGrap2\CompGrap3.cpp(43,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Games\Treugolniki\CompGrap2\CompGrap3.cpp(45,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  CompGrap2.vcxproj -> C:\Games\Treugolniki\x64\Debug\Treugolnik.exe
